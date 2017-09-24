@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is A4F6-9951
+
+ Directory of E:\STUDY\BuildTool\Git
+
+09/24/2017  05:36 PM    <DIR>          .
+09/24/2017  05:36 PM    <DIR>          ..
+09/24/2017  05:36 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  53,339,471,872 bytes free
